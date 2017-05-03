@@ -1,0 +1,28 @@
+#My
+AR_App/
+
+#Buildings dir
+Release/
+x64/
+Debug/
+
+
+#Image Format
+*.bmp
+*.jpg
+#Video Format
+*.MOV
+*.avi
+#Library
+*.dll
+
+#System dir
+*.vs
+
+#System file
+*.db
+*.sln
+*.opendb
+*.vcxproj
+*.user
+*.filters
